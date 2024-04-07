@@ -27,6 +27,12 @@
         $ npx expo start
     ```
 
+* Rodando o projeto no modo clear cache:
+    ```bash
+        $ npx expo start --clear
+    ```
+
+
 * Instalando font family roboto:
     ```bash
         $ npx expo install expo-font @expo-google-fonts/roboto
@@ -37,6 +43,9 @@
         $ npx expo install react-native-gesture-handler
     ```
 
+* usando o figma como ferramenta de design:
+    - https://www.figma.com/community/file/1155362909441341285
+    ![alt text](image.png)
 
 
 ## O que será ensinado nesse projeto:
