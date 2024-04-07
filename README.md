@@ -36,3 +36,13 @@
     ```bash
         $ npx expo install react-native-gesture-handler
     ```
+
+
+
+## O que será ensinado nesse projeto:
+
+- [x] Configuração do ambiente
+- [x] Instalação de dependências
+- [x] Importação de fontes
+- [x] SplashScreen para garantir que tudo seja caregado antes de iniciar o app
+- [ ] Configuração de navegação
