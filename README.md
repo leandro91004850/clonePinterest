@@ -2,6 +2,8 @@
 
 ### Projeto desenvolvido com React-Native, Expo, Styled-Components e React-Navigation.
 
+### documentação: https://docs.expo.dev/
+
 * Configurações de ambiente:
   - Node.js
   - Expo
@@ -28,4 +30,9 @@
 * Instalando font family roboto:
     ```bash
         $ npx expo install expo-font @expo-google-fonts/roboto
+    ```
+
+* Instalando o gestor handle: https://docs.expo.dev/versions/latest/sdk/gesture-handler/
+    ```bash
+        $ npx expo install react-native-gesture-handler
     ```
