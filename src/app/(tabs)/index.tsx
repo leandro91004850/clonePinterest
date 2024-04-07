@@ -1,4 +1,5 @@
 import { theme } from '@/theme'
+import { fontFamily } from '@/theme/fontFamily'
 import React from 'react'
 import { View, StyleSheet, Text } from 'react-native'
 
@@ -21,7 +22,8 @@ const styles = StyleSheet.create({
     
     text: {
         fontSize: 20,
-        color: theme.colors.white
+        color: theme.colors.white,
+        fontFamily: fontFamily.bold
     }
 
 })

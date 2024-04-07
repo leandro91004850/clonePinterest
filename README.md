@@ -24,3 +24,8 @@
     ```bash
         $ npx expo start
     ```
+
+* Instalando font family roboto:
+    ```bash
+        $ npx expo install expo-font @expo-google-fonts/roboto
+    ```
